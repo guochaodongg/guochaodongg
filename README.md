@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/hero-banner.png" alt="guochaodongg hero banner" width="100%" />
+<img src="./hero-banner.png" alt="guochaodongg hero banner" width="100%" />
 
 # guochaodongg
 
