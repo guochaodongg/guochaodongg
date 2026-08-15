@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero-banner.png" alt="guochaodongg hero banner" width="100%" />
+<img src="./X_MACRO_LAB.jpg" alt="guochaodongg hero banner" width="100%" />
 
 # guochaodongg
 
