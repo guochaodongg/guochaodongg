@@ -2,7 +2,7 @@
 
 <img src="./X_MACRO_LAB.jpg" alt="guochaodongg hero banner" width="100%" />
 
-# guochaodongg
+# X-MACRO-LAB
 
 ### Display Driver Firmware Engineer
 
